@@ -33,7 +33,7 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 ![Screenshot 1](Resources/Screenshot1.png)
 
-## How To Perofrm A Search
+## How To Perform A Search
  A user can perform a search by typing their criteria into the search fields on the left side of their screen.
  
 ![Screenshot 2](Resources/Screenshot2.png)
