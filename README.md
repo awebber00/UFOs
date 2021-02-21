@@ -10,6 +10,11 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 - **Software:** VS Code
 
 
+## Languages 
+- **Javascript**
+- **HTML**
+- **CSS**
+
 ## Objectives  
 - Initialize a repository with a README, and write an analysis for Deliverable 1.
 - Build and deploy JavaScript functions, including built-in functions. 
