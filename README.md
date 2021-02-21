@@ -33,9 +33,12 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 ![Screenshot 1](Resources/Screenshot1.png)
 
+## How To Perofrm A Search
+ A user can perform a search by typing their criteria into the search fields on the left side of their screen.
+ 
 ![Screenshot 2](Resources/Screenshot2.png)
 
-## Limitations & recommendations
+## Limitations & Recommendations
 
 One drawback or limitation of this webpage is that it is not very user friendly. Two recommendations can be made to improve the webpage:
 
