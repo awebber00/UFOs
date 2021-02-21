@@ -7,6 +7,8 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 
 ## Resources 
 - **Data Source:** [data.js](data.js) 
+- **Starter Code:** [app.js](app.js)
+- **Stylesheet Code:** [style.css](style.css)
 - **Software:** VS Code
 
 
