@@ -46,3 +46,4 @@ One drawback or limitation of this webpage is that it is not very user friendly.
 
 - Drop down menus for input would make the search function more dynamic.
 
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
